@@ -1,1 +1,3 @@
-* xref:index.adoc[Conditionals]
+* xref:conditionals.adoc[조건문]
+** xref:ifdef-and-ifndef-directives.adoc[ifdef 및 ifndef 지시문]
+** xref:ifeval-directive.adoc[ifeval 지시문]

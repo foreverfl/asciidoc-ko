@@ -1,1 +1,1 @@
-* xref:index.adoc[Collapsible Blocks]
+* xref:collapsible-blocks.adoc[접을 수 있는 블록]

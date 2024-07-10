@@ -1,1 +1,1 @@
-* xref:index.adoc[Keyboard Macro]
+* xref:keyboard-macro.adoc[키보드 매크로]

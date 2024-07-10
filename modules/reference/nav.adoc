@@ -1,1 +1,7 @@
-* xref:index.adoc[Reference]
+* reference.adoc
+** xref:syntax-quick-reference.adoc[구문 빠른 참조]
+** xref:frequently-asked-questions-faq.adoc[자주 묻는 질문 (FAQ)]
+** xref:compare-asciidoc-to-markdown.adoc[AsciiDoc과 Markdown 비교]
+** xref:document-attributes-reference.adoc[문서 속성 참조]
+** xref:character-replacement-attributes-reference.adoc[문자 대체 속성 참조]
+** xref:glossary-of-terms.adoc[용어 사전]

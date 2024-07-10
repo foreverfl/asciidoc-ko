@@ -1,1 +1,5 @@
-* xref:index.adoc[Automatic Table Of Contents]
+* xref:automatic-table-of-contents.adoc[자동 목차]
+** xref:customize-the-toc-title.adoc[목차 제목 사용자 정의]
+** xref:adjust-the-toc-depth.adoc[목차 깊이 조정]
+** xref:position-the-toc.adoc[목차 위치 지정]
+** xref:toc-attributes-reference.adoc[목차 속성 참조]

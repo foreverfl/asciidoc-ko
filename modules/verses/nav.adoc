@@ -1,1 +1,1 @@
-* xref:index.adoc[Verses]
+* xref:verses.adoc[운문]

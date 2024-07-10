@@ -1,1 +1,1 @@
-* xref:index.adoc[Document Type]
+* xref:document-type.adoc[문서 유형]

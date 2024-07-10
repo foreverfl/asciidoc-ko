@@ -1,1 +1,1 @@
-* xref:index.adoc[Button And Menu Ui Macros]
+* xref:button-and-menu-ui-macros.adoc[버튼 및 메뉴 UI 매크로]

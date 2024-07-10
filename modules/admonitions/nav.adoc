@@ -1,1 +1,1 @@
-* xref:index.adoc[Admonitions]
+* xref:admonitions.adoc[경고문]

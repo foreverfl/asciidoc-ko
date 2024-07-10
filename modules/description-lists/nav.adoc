@@ -1,1 +1,4 @@
-* xref:index.adoc[Description Lists]
+* xref:description-lists.adoc[설명 목록]
+** xref:horizontal-description-list.adoc[수평 설명 목록]
+** xref:question-and-answer-lists.adoc[질문 및 답변 목록]
+** xref:description-lists-with-marker.adoc[마커가 있는 설명 목록]

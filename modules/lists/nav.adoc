@@ -1,1 +1,6 @@
-* xref:index.adoc[Lists]
+* xref:lists.adoc[목록]
+** xref:unordered-lists.adoc[순서 없는 목록]
+** xref:ordered-lists.adoc[순서 있는 목록]
+** xref:checklists.adoc[체크리스트]
+** xref:separating-lists.adoc[목록 분리]
+** xref:complex-list-items.adoc[복잡한 목록 항목]

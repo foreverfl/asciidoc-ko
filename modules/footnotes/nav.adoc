@@ -1,1 +1,1 @@
-* xref:index.adoc[Footnotes]
+* xref:footnotes.adoc[각주]

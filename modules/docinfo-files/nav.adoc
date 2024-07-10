@@ -1,1 +1,1 @@
-* xref:index.adoc[Docinfo Files]
+* xref:docinfo-files.adoc[Docinfo 파일]

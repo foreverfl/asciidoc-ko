@@ -1,1 +1,4 @@
-* xref:index.adoc[Cross References]
+* xref:cross-references.adoc[상호 참조]
+** xref:document-to-document-cross-references.adoc[문서 간 상호 참조]
+** xref:cross-reference-text-and-styles.adoc[상호 참조 텍스트 및 스타일]
+** xref:validate-cross-references.adoc[상호 참조 검증]

@@ -1,1 +1,1 @@
-* xref:index.adoc[Equations And Formulas]
+* xref:equations-and-formulas-stem.adoc[방정식 및 수식 (STEM)]
