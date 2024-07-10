@@ -1,0 +1,58 @@
+name: asciidoc
+version: 3.1
+title: AsciiDoc
+asciidoc:
+  attributes:
+    release-date: 2024-07-10
+    release-tag: latest
+    release-version: "3.1.8"
+    source-language: asciidoc@
+    xrefstyle: short@
+    example-caption: false
+    listing-caption: Example@
+    version-node-major: "16"
+    version-node: "16.20.2"
+    version-npm: "8.19.4"
+    icons: font
+
+nav:
+  - modules/ROOT/nav.adoc
+  - modules/introduction/nav.adoc
+  - modules/blocks/nav.adoc
+  - modules/document-attributes/nav.adoc
+  - modules/element-attributes/nav.adoc
+  - modules/document-header/nav.adoc
+  - modules/document-type/nav.adoc
+  - modules/sections/nav.adoc
+  - modules/paragraphs/nav.adoc
+  - modules/discrete-headings/nav.adoc
+  - modules/breaks/nav.adoc
+  - modules/text-formatting-and-punctuation/nav.adoc
+  - modules/lists/nav.adoc
+  - modules/description-lists/nav.adoc
+  - modules/links/nav.adoc
+  - modules/cross-references/nav.adoc
+  - modules/footnotes/nav.adoc
+  - modules/images/nav.adoc
+  - modules/audio-and-video/nav.adoc
+  - modules/icons/nav.adoc
+  - modules/keyboard-macro/nav.adoc
+  - modules/button-and-menu-ui-macros/nav.adoc
+  - modules/admonitions/nav.adoc
+  - modules/sidebars/nav.adoc
+  - modules/example-blocks/nav.adoc
+  - modules/blockquotes/nav.adoc
+  - modules/verses/nav.adoc
+  - modules/verbatim-and-source-blocks/nav.adoc
+  - modules/tables/nav.adoc
+  - modules/equations-and-formulas/nav.adoc
+  - modules/open-blocks/nav.adoc
+  - modules/collapsible-blocks/nav.adoc
+  - modules/comments/nav.adoc
+  - modules/automatic-table-of-contents/nav.adoc
+  - modules/docinfo-files/nav.adoc
+  - modules/includes/nav.adoc
+  - modules/conditionals/nav.adoc
+  - modules/substitutions/nav.adoc
+  - modules/passthroughs/nav.adoc
+  - modules/reference/nav.adoc
